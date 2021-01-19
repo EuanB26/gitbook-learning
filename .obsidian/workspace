@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "bb4c2c140de5b213",
+    "type": "split",
+    "children": [
+      {
+        "id": "e63e1376329b9610",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cybersec/reverse-engineering.md",
+            "mode": "source"
+          }
+        },
+        "group": "02db7816b9f13cfd"
+      },
+      {
+        "id": "91e934585982f1b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cybersec/reverse-engineering.md",
+            "mode": "preview"
+          }
+        },
+        "group": "02db7816b9f13cfd"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d3c3ac6aa241901",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f9ea373c8804aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a9878a4ca4e8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96253da98545e4db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e5dce7d495176e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d85edec2a31dce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176be286888ceec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cybersec/reverse-engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "cybersec/reverse-engineering.md",
+    "about_me.md",
+    "README.md",
+    "SUMMARY.md",
+    "computer-science/list-cs.md",
+    "computer-science/processors/von-neumann-harvard-architecture-adn-contemporary-processors.md",
+    "computer-science/processors/structure-of-processors.md",
+    "computer-science/processors/README.md",
+    "computer-science/processors/pipelining.md",
+    "computer-science/processors/gpus.md"
+  ]
+}

@@ -1,2 +1,0 @@
-# CISC vs RISC
-

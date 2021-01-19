@@ -1,2 +1,0 @@
-# AT&T syntax
-

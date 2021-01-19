@@ -1,2 +1,0 @@
-# RAM and ROM
-

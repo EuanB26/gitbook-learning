@@ -1,2 +1,0 @@
-# Magnetic, Flash, Optical Storage
-
