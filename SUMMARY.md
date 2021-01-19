@@ -11,6 +11,7 @@
     * [History](cybersec/binary-exploitation/theory/history.md)
     * [Virtual Address Space](cybersec/binary-exploitation/theory/virtual-address-space.md)
     * [Deep Diving ELFs](cybersec/binary-exploitation/theory/deep-diving-elfs.md)
+    * [Registers](cybersec/binary-exploitation/theory/registers.md)
     * [System V Calling Conventions](cybersec/binary-exploitation/theory/system-v-calling-conventions.md)
     * [Why doesn't the OS detect BOF?](cybersec/binary-exploitation/theory/side-note-os-doesnt-detect-bof.md)
     * [Control Flow Graphs](cybersec/binary-exploitation/theory/control-flow-graphs.md)
