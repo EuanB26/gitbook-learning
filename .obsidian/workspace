@@ -6,14 +6,27 @@
       {
         "id": "f75780f193e2132d",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cybersec/binary-exploitation/attacks/stack/buffer-overflow/exploitation.md",
+            "mode": "source"
+          }
+        },
+        "group": "f2b6ce07af84112b"
+      },
+      {
+        "id": "53895767c8bf67ee",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cybersec/binary-exploitation/attacks/stack/buffer-overflows-bofs 1.md",
-            "mode": "source"
+            "file": "cybersec/binary-exploitation/attacks/stack/buffer-overflow/exploitation.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "f2b6ce07af84112b"
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersec/binary-exploitation/attacks/stack/buffer-overflows-bofs 1.md",
+                "file": "cybersec/binary-exploitation/attacks/stack/buffer-overflow/exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "cybersec/binary-exploitation/attacks/stack/buffer-overflows-bofs 1.md",
-    "cybersec/binary-exploitation/attacks/stack/Buffer Overflow/Exploit.md",
-    "cybersec/binary-exploitation/attacks/stack/Buffer Overflow/buffer-overflows-bofs.md",
-    "cybersec/binary-exploitation/attacks/stack/Buffer Overflow/Untitled.md",
-    "Untitled.md",
-    "cybersec/binary-exploitation/attacks/stack/buffer-overflows-bofs.md",
-    "cybersec/binary-exploitation/attacks/stack/README.md",
-    "cybersec/binary-exploitation/attacks/attacks-of-today.md",
-    "cybersec/binary-exploitation/attacks/stack/stack-pivotting.md",
-    "cybersec/binary-exploitation/attacks/stack/format-strings/fuzzer.md"
+    "cybersec/binary-exploitation/attacks/stack/buffer-overflow/exploitation.md",
+    "cybersec/binary-exploitation/attacks/stack/buffer-overflow/buffer-overflows-bofs.md",
+    "cybersec/binary-exploitation/theory/got-and-plt.md",
+    "assets/exploits/bof/vuln.md",
+    "README.md",
+    "SUMMARY.md",
+    "vuln.md",
+    "cybersec/binary-exploitation/attacks/stack/buffer-overflow/writeup.md",
+    "cybersec/binary-exploitation/attacks/stack/buffer-overflow/Exploit.md",
+    "cybersec/binary-exploitation/attacks/stack/buffer-overflows-bofs 1.md"
   ]
 }
