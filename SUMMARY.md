@@ -36,7 +36,7 @@
   * [Attacks](cybersec/binary-exploitation/attacks/README.md)
     * [Attacks Of Today](cybersec/binary-exploitation/attacks/attacks-of-today.md)
     * [Stack](cybersec/binary-exploitation/attacks/stack/README.md)
-      * [Buffer Overflows \(BOFs\)](cybersec/binary-exploitation/attacks/stack/buffer-overflows-bofs.md)
+      * [Buffer Overflows \(BOFs\)](buffer-overflows-bofs.md)
       * [Shellcode](cybersec/binary-exploitation/attacks/stack/shellcode.md)
       * [Ret2libc](cybersec/binary-exploitation/attacks/stack/ret2libc.md)
       * [Format strings](cybersec/binary-exploitation/attacks/stack/format-strings/README.md)
